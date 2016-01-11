@@ -1,0 +1,19 @@
+{
+  "name": "marvinlabs/bamboo",
+  "type": "library",
+  "description": "Wordpress Helpers",
+  "homepage": "http://marvinlabs.com/",
+  "license": "Apache v2",
+  "authors": [
+    {
+      "name": "MarvinLabs",
+      "email": "contact@marvinlabs.com",
+      "homepage": "http://marvinlabs.com/"
+    },
+    {
+      "name": "Vincent Mimoun-Prat",
+      "email": "contact@vincentprat.info",
+      "homepage": "http://vincentprat.info/"
+    }
+  ]
+}
